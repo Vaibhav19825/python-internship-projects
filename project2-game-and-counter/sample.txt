@@ -1,0 +1,7 @@
+Python is a simple language and it is easy to learn.
+The best way to learn Python is to practice every day.
+I write small programs and I test them again and again.
+The more I practice, the more I understand the code.
+Programming is not only about the syntax, it is also about the logic and the problem solving.
+When the program gives an error, I read the message and fix the mistake.
+Every mistake teaches me something new, and the next program becomes better than the last one.

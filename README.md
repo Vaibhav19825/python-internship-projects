@@ -18,5 +18,15 @@ A menu-driven command-line program that keeps running until the user quits.
 
 Requires Python 3.10 or newer.
 
+### 2. Number Guessing Game and Word Counter
+A menu-driven program with two tools.
+
+- Guessing game: the computer picks a number from 1 to 100, the player has 7 tries and gets higher/lower hints
+- Word counter: reads a text file and shows total words, unique words and the top 10 most common words
+
+**How to run:**
+
+    python project2-game-and-counter/game-and-counter.py
+    
 ## Author
 Vaibhav kumar 
