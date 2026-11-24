@@ -28,5 +28,31 @@ A menu-driven program with two tools.
 
     python project2-game-and-counter/game-and-counter.py
     
+    ### 3. Personal Expense Tracker with CSV
+A menu-driven program that saves expenses to a CSV file, so they stay after the program is closed.
+
+- Add an expense (date, category, description, amount) with input validation
+- View all expenses with a total
+- Filter by category, month or minimum amount
+- Category summary: count and total per category, plus the highest spending category
+
+**How to run:**
+
+    python project3-expense-tracker/expense_tracker.py
+
+### 3. Personal Expense Tracker with CSV
+A menu-driven program that saves expenses to a CSV file, so they stay after the program is closed.
+
+- Add an expense (date, category, description, amount) with input validation
+- View all expenses with a total
+- Filter by category, month or minimum amount
+- Category summary: count and total per category, plus the highest spending category
+
+**How to run:**
+
+    python project3-expense-tracker/expense_tracker.py
+
+Sample data is in `expenses.csv` (made-up data). 
+
 ## Author
 Vaibhav kumar 
