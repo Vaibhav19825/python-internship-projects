@@ -54,5 +54,33 @@ A menu-driven program that saves expenses to a CSV file, so they stay after the 
 
 Sample data is in `expenses.csv` (made-up data). 
 
+# Project 4: Web Scraper for Quotes
+
+## Description
+This project is a simple Python web scraper that collects quotes from a website using Requests and BeautifulSoup.
+
+## Features
+- Extracts at least 20 quotes.
+- Collects quote text, author names, and tags.
+- Saves the extracted data in JSON format.
+
+## Technologies Used
+- Python
+- Requests
+- BeautifulSoup
+- JSON
+
+## Website Used
+https://quotes.toscrape.com/
+
+## Output
+The scraped data is saved in `quotes.json`.
+
+## How to Run
+```bash
+pip install requests beautifulsoup4
+python web_scraper.py
+```
+
 ## Author
 Vaibhav kumar 
