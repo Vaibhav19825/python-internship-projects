@@ -82,5 +82,21 @@ pip install requests beautifulsoup4
 python web_scraper.py
 ```
 
+### 5. Weather App with Live OpenWeather API
+A command-line app that shows the current temperature, humidity, wind and a short forecast for any city using the OpenWeather API.
+
+**Setup:**
+1. Get a free API key from openweathermap.org
+2. Install requests: `pip install requests`
+3. Create a `.env` file in the project folder with this line (see `.env.example`):
+
+       API_KEY=your_key_here
+
+**How to run:**
+
+    python project5-weather-app/weather_app.py
+
+The API key is read from `.env`, which is not uploaded to GitHub.
+
 ## Author
 Vaibhav kumar 
